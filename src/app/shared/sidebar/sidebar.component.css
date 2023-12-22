@@ -1,0 +1,12 @@
+#sidebar{
+  height: 100vh;
+  width: 250px;
+}
+
+button:hover{
+color: #127daf;
+}
+
+.capitalized{
+  text-transform: capitalize !important;
+}
